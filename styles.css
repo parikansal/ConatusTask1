@@ -57,3 +57,6 @@ footer {
     width: 100%;
     bottom: 0;
 }
+footer p {
+    font-size: 0.9rem;
+}
